@@ -4,7 +4,7 @@ This is a simple web-based temperature conversion program. It allows users to en
 
 ## How to Use
 
-1. Open the `index.html` file in your web browser.
+1. Open the `Temperature.html` file in your web browser.
 2. Enter the temperature value in the input field.
 3. Select the unit of the entered temperature from the dropdown menu.
 4. Click the "Convert" button.
